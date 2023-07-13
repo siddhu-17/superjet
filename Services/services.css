@@ -172,20 +172,18 @@ li a:hover :not(.active)
 }
 .txtl
 {
-    color: #707070;
+     color: #707070;
     font-size: 25px;
-    border-left:3px solid #FBBB0D;
     height: 150px;
-    width: 60%;
-    padding:10px 30px ;
-    margin-top: 60px;
+    width: 65%;
+    justify-content: center;
 }
 .n2
 {
-    float: right;
     color: #3DC3AC;
     font-weight: bold;
     font-size: 60px;
+    width: 25%;
 }
 .img3
 {
